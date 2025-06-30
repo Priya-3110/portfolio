@@ -111,36 +111,7 @@ const technologies = {
       icon: "/assets/tech/threejs.svg",
       link: "https://threejs.org/",
     },
-    // {
-    //   name: "Styled-Components",
-    //   icon: "/assets/tech/styled-components.png",
-    //   link: "https://styled-components.com/",
-    // },
-    // {
-    //   name: "Framer-motion",
-    //   icon: "/assets/tech/framer.svg",
-    //   link: "https://www.framer.com/motion/",
-    // },
-    // {
-    //   name: "Zustand",
-    //   icon: "https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg",
-    //   link: "https://zustand-demo.pmnd.rs",
-    // },
-    // {
-    //   name: "Redux/Redux-toolkit",
-    //   icon: "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png",
-    //   link: "https://redux.js.org",
-    // },
-    // {
-    //   name: "NextAuth.js",
-    //   icon: "/assets/tech/nextauthjs.png",
-    //   link: "https://next-auth.js.org/",
-    // },
-    // {
-    //   name: "Prisma",
-    //   icon: "/assets/tech/prisma.svg",
-    //   link: "https://www.prisma.io/",
-    // },
+    
   ],
   tools: [
     {
@@ -153,21 +124,7 @@ const technologies = {
       icon: "/assets/icons/github.svg",
       link: "https://github.com/",
     },
-    // {
-    //   name: "Postman",
-    //   icon: "/assets/tech/postman.svg",
-    //   link: "https://www.postman.com/",
-    // },
-    // {
-    //   name: "Figma",
-    //   icon: "/assets/tech/figma.svg",
-    //   link: "https://www.figma.com/",
-    // },
-    // {
-    //   name: "Docker",
-    //   icon: "/assets/tech/docker.svg",
-    //   link: "https://www.docker.com/",
-    // },
+  
   ],
   environments: [
     {
@@ -182,11 +139,7 @@ const technologies = {
       icon: "/assets/tech/my-sql.png",
       link: "https://www.mysql.com/",
     },
-    // {
-    //   name: "PostgreSQL",
-    //   icon: "/assets/tech/postgresql.png",
-    //   link: "https://www.postgresql.org",
-    // },
+   
     {
       name: "MongoDB",
       icon: "/assets/tech/mongodb.svg",
@@ -313,8 +266,7 @@ const projects = [
       
     ],
     image: "/assets/projects/p3.webp",
-    // source_code_link: "https://github.com/Shivam-Sharma-1/FigPro",
-    // deployed_link: "https://fig-pro-github.vercel.app",
+   
   },
   {
     name: "SpeedoType",
@@ -462,7 +414,7 @@ const socials = [
 const heroTexts = [
   "React/Next.js developer",
   500,
-  "Freelancer",
+  "Engineering Student",
   500,
   "Full-Stack developer",
   500,
