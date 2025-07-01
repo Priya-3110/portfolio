@@ -292,7 +292,7 @@ const projects = [
       
     ],
     image: "/assets/projects/P5.webp",
-    source_code_link: "https://github.com/GDSC-MVJCE/gdscmvjce-website.git",
+    // source_code_link: "https://github.com/GDSC-MVJCE/gdscmvjce-website.git",
     deployed_link: "https://speedotype3110.web.app",
   },
   {
